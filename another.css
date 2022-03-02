@@ -1,0 +1,77 @@
+/* navbar */
+
+.nav-link{
+    color: gray !important;
+}
+.header{
+   padding: 100px;
+}
+.head{
+    background-color: orange;
+}
+
+/* hero section */
+.hero-section{
+    background-color: silver;
+    padding-top: 90px;
+    padding-bottom: 50px;
+   
+   
+}
+.box{
+    box-sizing: border-box;
+    border: 1px solid orange;
+    background-color: orange;
+    width: 800px;
+    height: 250px;
+    padding: 30px 10px 10px 20px;
+    margin-bottom: 5%;
+    color: ivory;
+   margin-left: 260px;
+    text-align: center;
+    text-align: justify;
+
+}
+ .btn{
+    color: white;
+    text-align: justify;
+    
+    padding-left: 2%;
+  
+}
+/* about section */
+.about-section{
+    background-color: wheat;
+    padding-top: 5%;
+   
+}
+.about{
+    padding: 30px 10px 20px 50px;
+  
+}
+
+
+/* service section */
+.service-section{
+    background-color: bisque;
+    padding-top: 5%;
+    height: 600px;
+}
+.service{
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color:orange;
+    color: white;
+    text-align: justify;
+    padding-top: 10px;
+    border-radius: 0px 0px 30px 0px;
+
+}
+.boxs{
+    
+    height: 400px;
+    
+}
+.far{
+    font-size: 30px;
+}
